@@ -44,8 +44,14 @@
 ---
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhannu-kumar-903a42391)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhannu7091@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/dhannu-kumar-903a42391">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:dhannu7091@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 <!--
 **dhannu7091/dhannu7091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
